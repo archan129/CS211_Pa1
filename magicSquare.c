@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//hello
 int** buildMagicSquare(int n);
 void printMS(int** mat, int n);
 void freeMatrix(int** mat, int n);
